@@ -1,0 +1,16 @@
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.exe
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.deps.json
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.runtimeconfig.json
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.runtimeconfig.dev.json
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.dll
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\ref\Conveyerbelt.dll
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\bin\Debug\net5.0\Conveyerbelt.pdb
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.csprojAssemblyReference.cache
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.AssemblyInfoInputs.cache
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.AssemblyInfo.cs
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.dll
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\ref\Conveyerbelt.dll
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.pdb
+C:\Users\serbi\Projects\Conveyerbelt\Conveyerbelt\obj\Debug\net5.0\Conveyerbelt.genruntimeconfig.cache
