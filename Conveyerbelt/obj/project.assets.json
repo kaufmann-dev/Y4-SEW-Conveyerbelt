@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serbi\\Projects\\Conveyerbelt\\Conveyerbelt\\Conveyerbelt.csproj",
+      "projectUniqueName": "C:\\Users\\serbi\\School projects\\Conveyerbelt\\Conveyerbelt\\Conveyerbelt.csproj",
       "projectName": "Conveyerbelt",
-      "projectPath": "C:\\Users\\serbi\\Projects\\Conveyerbelt\\Conveyerbelt\\Conveyerbelt.csproj",
+      "projectPath": "C:\\Users\\serbi\\School projects\\Conveyerbelt\\Conveyerbelt\\Conveyerbelt.csproj",
       "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serbi\\Projects\\Conveyerbelt\\Conveyerbelt\\obj\\",
+      "outputPath": "C:\\Users\\serbi\\School projects\\Conveyerbelt\\Conveyerbelt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
